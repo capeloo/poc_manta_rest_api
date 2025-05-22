@@ -67,7 +67,7 @@ public class Usuario {
         return isPremium;
     }
 
-    public void setPremium(boolean premium) {
-        isPremium = premium;
+    public void setIsPremium(boolean isPremium) {
+        this.isPremium = isPremium;
     }
 }
