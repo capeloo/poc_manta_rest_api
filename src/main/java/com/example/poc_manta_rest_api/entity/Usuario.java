@@ -1,4 +1,4 @@
-package com.example.poc_manta_rest_api.model;
+package com.example.poc_manta_rest_api.entity;
 
 import jakarta.persistence.*;
 
